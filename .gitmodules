@@ -1,0 +1,12 @@
+[submodule "acquirer"]
+	path = acquirer
+	url = https://github.com/muriloalvesdev/acquirer
+[submodule "holder"]
+	path = holder
+	url = https://github.com/muriloalvesdev/holder
+[submodule "bank"]
+	path = bank
+	url = https://github.com/muriloalvesdev/bank
+[submodule "transactions"]
+	path = transactions
+	url = https://github.com/muriloalvesdev/transactions
